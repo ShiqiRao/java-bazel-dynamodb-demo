@@ -1,0 +1,8 @@
+/.ijwb/
+/config.properties
+/.idea/
+/bazel-bin/
+/bazel-java-bazel-indico-demo/
+/bazel-out/
+/bazel-testlogs/
+/java-bazel-dynamodb-demo.iml
